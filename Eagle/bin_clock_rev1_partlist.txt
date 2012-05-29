@@ -1,0 +1,35 @@
+Partlist
+
+Exported from binary_clock_rev1.sch at 10/12/11 9:47 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value             Device                Package            Library   Sheet
+
+BAT1                       BATTERY12MM           BATTCON_12MM       SparkFun  1
+C1       100n              CAP1206               1206               SparkFun  1
+C2       100n              CAP1206               1206               SparkFun  1
+C3       100n              CAP1206               1206               SparkFun  1
+C4       22pF              CAP1206               1206               JitterLab 1
+C5       22pF              CAP1206               1206               JitterLab 1
+C6       47uF              CPOL-USD/7343-31W     D/7343-31W         rcl       1
+C7       47uF              CPOL-USD/7343-31W     D/7343-31W         rcl       1
+IC1      ATMEGA168         ATMEGA168             TQFP32-08          SparkFun  1
+JP1                        AVR_SPI_PRG_62X3_LOCK 2X3_LOCK           SparkFun  1
+PTC                        RESISTOR1206          1206               SparkFun  1
+R        TPB1,27           TPB1,27               B1,27              testpad   1
+R1       4K7               RESISTOR1206          1206               JitterLab 1
+R2       10k               RESISTOR1206          1206               SparkFun  1
+R3       4k7               RESISTOR1206          1206               JitterLab 1
+RREF     2.2k              RESISTOR1206          1206               JitterLab 1
+R_BLK    10k               RESISTOR1206          1206               JitterLab 1
+S1                         TAC_SWITCHSMD         TACTILE_SWITCH_SMD SparkFun  1
+T        TPB1,27           TPB1,27               B1,27              testpad   1
+U$1      DS1307SO8         DS1307SO8             SO08               SparkFun  1
+U$2      M08X2             M08X2                 2X8                SparkFun  1
+U$3      M04X2             M04X2                 2X4                SparkFun  1
+U2       TLC5940TLC5940NT  TLC5940TLC5940NT      DIL28-3            TLC5940NT 1
+U3       FT232RL-BASICSSOP FT232RL-BASICSSOP     SSOP28DB           SparkFun  1
+X1       USBSMD            USBSMD                USB-MINIB          SparkFun  1
+Y1       32kHz             CRYSTAL32-SMD         CRYSTAL-32KHZ-SMD  SparkFun  1
+Y2       16MHz             CRYSTALHC49US         HC49US             SparkFun  1
